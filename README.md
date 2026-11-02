@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Hi, I'm Emmanuel Djessou 👋</h1>
 
-## Available Scripts
+<p align="center">
+  <b>Full-stack developer — NestJS · React & React Native · Angular · CI/CD on Linux</b><br/>
+  Abidjan, Côte d'Ivoire · GMT (same hours as London, 1h behind Paris) · English & French
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-djessou-167a6b115/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://manourez.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:manourez@hotmail.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-freelance%20%2F%20part--time-2ea44f?style=for-the-badge" alt="Open to freelance"/>
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### About me
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+I build web and mobile products end to end: API design, web and mobile front-ends, database, and getting it all into production.
 
-### `npm test`
+- 💼 Software engineer building business applications for public- and private-sector organisations (.NET, SQL Server, Node.js)
+- 📱 Shipped full-stack products combining a NestJS API, a React web back-office and a React Native mobile app in a single monorepo
+- 🚀 I handle my own deployments: Linux servers, GitHub Actions pipelines (push / PR → automatic deploy), Docker
+- ⏱️ **Available ~30 h/week** for remote freelance or part-time contracts (hourly)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### What I can do for you
 
-### `npm run build`
+| | |
+|---|---|
+| **Backend** | NestJS APIs (JWT auth, CQRS, scheduled jobs, emails, Swagger docs), Prisma, PostgreSQL & SQL Server, file storage on S3 |
+| **Web** | React (MUI, data grids, charts, forms) and Angular apps, admin dashboards, PDF & Excel exports |
+| **Mobile** | React Native / Expo: camera, biometrics, OTP, e-signature, real-time updates, OTA updates |
+| **Light DevOps** | CI/CD with GitHub Actions, Linux server setup, Nginx, Dockerfiles & Compose, Nx monorepos |
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech stack
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,prisma,postgres,dotnet,cs,aws,githubactions,docker,linux,nginx&perline=15" alt="Tech stack"/>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<sub>Also: React Native / Expo, Redux Toolkit, Nx, SQL Server (MSSQL), Jest / Vitest / Cypress.</sub>
 
-### `npm run eject`
+### Selected projects
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+| Project | Description | Stack |
+|---|---|---|
+| **[Domus](https://github.com/manourez/domus)** | Management platform for homeowners and landlords to run their properties from the web or their phone. Full-stack Nx monorepo: NestJS API, React web back-office and Expo mobile app sharing the same codebase, with PDF/Excel reporting and email notifications. | NestJS, Prisma, React, MUI, Expo, AWS S3, Nx |
+| **[BAM](https://github.com/manourez/bam)** | Mobile app for a bank's mutual-fund (FCP) investors, with on-device face detection, biometric login, OTP verification, electronic signature and real-time updates. | React Native, Expo, TensorFlow.js, Redux Toolkit |
+| **Coffee-cocoa management platform** | Business application built for a client in the coffee-cocoa sector. *Private client project, details on request.* | — |
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<details>
+<summary>🇫🇷 <b>En français</b></summary>
+<br/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Développeur full-stack basé à Abidjan (GMT). Je conçois des produits web et mobiles de bout en bout : API NestJS, front React ou Angular, mobile React Native / Expo, et mise en production (serveurs Linux, CI/CD GitHub Actions, Docker).
 
-## Learn More
+**Disponible environ 30 h/semaine** pour des missions freelance ou à temps partiel en remote, facturées à l'heure. Contact : [LinkedIn](https://www.linkedin.com/in/emmanuel-djessou-167a6b115/), [portfolio](https://manourez.github.io) ou [email](mailto:manourez@hotmail.fr).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+</details>
